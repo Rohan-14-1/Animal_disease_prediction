@@ -1,0 +1,23 @@
+[
+  "Animal_Type",
+  "Breed",
+  "Age",
+  "Gender",
+  "Weight",
+  "Symptom_1",
+  "Symptom_2",
+  "Symptom_3",
+  "Symptom_4",
+  "Duration",
+  "Appetite_Loss",
+  "Vomiting",
+  "Diarrhea",
+  "Coughing",
+  "Labored_Breathing",
+  "Lameness",
+  "Skin_Lesions",
+  "Nasal_Discharge",
+  "Eye_Discharge",
+  "Body_Temperature",
+  "Heart_Rate"
+]

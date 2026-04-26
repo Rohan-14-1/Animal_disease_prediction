@@ -1,0 +1,211 @@
+{
+  "Animal_Type": [
+    "Cat",
+    "Cow",
+    "Dog",
+    "Goat",
+    "Horse",
+    "Pig",
+    "Sheep"
+  ],
+  "Breed": [
+    "Abyssinian",
+    "Alpine",
+    "Angora",
+    "Angus",
+    "Appaloosa",
+    "Arabian",
+    "Beagle",
+    "Bengal",
+    "Berkshire",
+    "Boer",
+    "Boxer",
+    "Brahman",
+    "British Shorthair",
+    "Bulldog",
+    "Charolais",
+    "Clydesdale",
+    "Dalmatian",
+    "Dorper",
+    "Duroc",
+    "German Shepherd",
+    "Golden Retriever",
+    "Hampshire",
+    "Hereford",
+    "Holstein",
+    "Husky",
+    "Jersey",
+    "LaMancha",
+    "Labrador",
+    "Landrace",
+    "Maine Coon",
+    "Merino",
+    "Mustang",
+    "Nubian",
+    "Persian",
+    "Pietrain",
+    "Poodle",
+    "Quarter Horse",
+    "Ragdoll",
+    "Romney",
+    "Rottweiler",
+    "Saanen",
+    "Siamese",
+    "Sphynx",
+    "Suffolk",
+    "Texel",
+    "Thoroughbred",
+    "Yorkshire"
+  ],
+  "Gender": [
+    "Female",
+    "Male"
+  ],
+  "Symptom_1": [
+    "Appetite Loss",
+    "Coughing",
+    "Dehydration",
+    "Diarrhea",
+    "Eye Discharge",
+    "Fever",
+    "Labored Breathing",
+    "Lameness",
+    "Lethargy",
+    "Nasal Discharge",
+    "Skin Lesions",
+    "Sneezing",
+    "Swelling",
+    "Vomiting",
+    "Weight Loss"
+  ],
+  "Symptom_2": [
+    "Appetite Loss",
+    "Coughing",
+    "Dehydration",
+    "Diarrhea",
+    "Eye Discharge",
+    "Fever",
+    "Labored Breathing",
+    "Lameness",
+    "Lethargy",
+    "Nasal Discharge",
+    "Skin Lesions",
+    "Sneezing",
+    "Swelling",
+    "Vomiting",
+    "Weight Loss"
+  ],
+  "Symptom_3": [
+    "Appetite Loss",
+    "Coughing",
+    "Dehydration",
+    "Diarrhea",
+    "Eye Discharge",
+    "Fever",
+    "Labored Breathing",
+    "Lameness",
+    "Lethargy",
+    "Nasal Discharge",
+    "Skin Lesions",
+    "Sneezing",
+    "Swelling",
+    "Vomiting",
+    "Weight Loss"
+  ],
+  "Symptom_4": [
+    "Appetite Loss",
+    "Coughing",
+    "Dehydration",
+    "Diarrhea",
+    "Eye Discharge",
+    "Fever",
+    "Labored Breathing",
+    "Lameness",
+    "Lethargy",
+    "Nasal Discharge",
+    "Skin Lesions",
+    "Sneezing",
+    "Swelling",
+    "Vomiting",
+    "Weight Loss"
+  ],
+  "Duration": [
+    "1 day",
+    "1 month",
+    "1 week",
+    "2 days",
+    "2 months",
+    "2 weeks",
+    "3 days",
+    "3 months",
+    "3 weeks",
+    "4 days",
+    "5 days",
+    "6 months"
+  ],
+  "Appetite_Loss": [
+    "No",
+    "Yes"
+  ],
+  "Vomiting": [
+    "No",
+    "Yes"
+  ],
+  "Diarrhea": [
+    "No",
+    "Yes"
+  ],
+  "Coughing": [
+    "No",
+    "Yes"
+  ],
+  "Labored_Breathing": [
+    "No",
+    "Yes"
+  ],
+  "Lameness": [
+    "No",
+    "Yes"
+  ],
+  "Skin_Lesions": [
+    "No",
+    "Yes"
+  ],
+  "Nasal_Discharge": [
+    "No",
+    "Yes"
+  ],
+  "Eye_Discharge": [
+    "No",
+    "Yes"
+  ],
+  "Body_Temperature": [
+    "37.5\u00b0C",
+    "37.8\u00b0C",
+    "38.0\u00b0C",
+    "38.2\u00b0C",
+    "38.5\u00b0C",
+    "38.7\u00b0C",
+    "38.9\u00b0C",
+    "39.0\u00b0C",
+    "39.2\u00b0C",
+    "39.5\u00b0C",
+    "39.8\u00b0C",
+    "40.0\u00b0C",
+    "40.1\u00b0C",
+    "40.5\u00b0C",
+    "41.0\u00b0C"
+  ],
+  "Disease_Prediction": [
+    "Bovine Respiratory Disease",
+    "Bovine Tuberculosis",
+    "Canine Distemper",
+    "Coccidiosis",
+    "Equine Influenza",
+    "Foot and Mouth Disease",
+    "Fungal Infection",
+    "Rabies",
+    "Strangles",
+    "Upper Respiratory Infection"
+  ]
+}
